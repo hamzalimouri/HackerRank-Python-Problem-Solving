@@ -9,3 +9,5 @@ Since solving coding problems is one of my favorite things to do, Whenever I get
 [HackerRank](https://www.hackerrank.com/) is a website and a platform for competitive programming, improving coding skills and learning to code which many coders around the world prefer. I started to use this platform for improving my problem solving ability and indulge in competitive programming. It contains coding challenges for practice, tutorials, and coding contests. We can increase our rating and raking by solving challenges present on the website and also by participating in contests and finally improve our credibility.
 
 ## Solved Problems
+
+- Simple Array Sum
