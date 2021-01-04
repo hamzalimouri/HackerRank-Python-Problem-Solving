@@ -11,3 +11,4 @@ Since solving coding problems is one of my favorite things to do, Whenever I get
 ## Solved Problems
 
 - Simple Array Sum
+- Compare the Triplets
