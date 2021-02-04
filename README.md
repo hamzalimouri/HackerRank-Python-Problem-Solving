@@ -34,3 +34,4 @@ Since solving coding problems is one of my favorite things to do, Whenever I get
 - Designer PDF Viewer
 - Strange Counter
 - Super Reduced String
+- CamelCase
