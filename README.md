@@ -35,3 +35,4 @@ Since solving coding problems is one of my favorite things to do, Whenever I get
 - Strange Counter
 - Super Reduced String
 - CamelCase
+- Strong Password
