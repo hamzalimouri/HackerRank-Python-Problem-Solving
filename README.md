@@ -39,3 +39,4 @@ Since solving coding problems is one of my favorite things to do, Whenever I get
 - The Hurdle Race
 - Utopian Tree
 - Viral Advertising
+- Sequence Equation
